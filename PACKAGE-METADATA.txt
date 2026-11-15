@@ -1,0 +1,3 @@
+Repository: ffgg35646-ops/bb
+Branch snapshot: client-delivery-package
+Source base commit: 0e755aaeb30fbd6fb7eb0ca4d509b4d9a014fe7c
